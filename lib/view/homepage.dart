@@ -15,7 +15,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: const Text(
           'Group Travelling',
-          style: TextStyle(color: Colors.black),
+          style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
         ),
       ),
     ));
